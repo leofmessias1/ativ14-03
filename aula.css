@@ -1,0 +1,17 @@
+div{
+    height: 70px;/* largura */
+    width: 500px;/* comprimento */
+    background-color: blue; /* comprimento */
+    margin-top: 100px; /* Externo */
+    margin-left: 150px;
+    margin-bottom: 50px;
+
+    margin: 20px 50px 75px 50px;
+}
+
+/* Espaçamento interno */
+
+div{
+    padding-top: 30px;
+    padding-left: 150px;
+}
